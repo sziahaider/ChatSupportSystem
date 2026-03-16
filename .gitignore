@@ -1,0 +1,8 @@
+.vs
+/ChatSupportSystem/Api/obj
+/ChatSupportSystem/Application/obj
+/ChatSupportSystem/Domain/obj
+/ChatSupportSystem/Infrastructure/obj
+/ChatSupportSystem/Infrastructure/dab-options.json.user
+/ChatSupportSystem/packages
+/ChatSupportSystem/Api/Api.csproj.user
